@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Desktop/catkin_ws/devel
+
+Name: box_detector
+Description: Description of box_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/Desktop/catkin_ws/devel/lib 
+Requires: 
